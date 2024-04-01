@@ -28,7 +28,7 @@ Before getting hands-on with the exercises below, make sure you have a good gras
 
 |Name|Exercise|Solution|Comments|
 |--------|--------|------|----|
-| Split Strings | [Exercise](exercises/split_strings/exercise.md) | [Solution](exercises/split_strings/solution.md) | |
+| Split Strings | [Exercise](exercises/split_strings/exercise.md) | [Solution](exercises/split_strings/main.go) | |
 
 ### Arrays and Slices Exercises
 
