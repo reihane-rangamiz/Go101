@@ -21,7 +21,7 @@ Before getting hands-on with the exercises below, make sure you have a good gras
 | Packages | [Exercise](exercises/packages/exercise.md) | [Solution](exercises/packages/main.go) |
 | Logical Operators | [Exercise](exercises/logical_operators/exercise.md) | [Solution](exercises/logical_operators/main.go) |
 | Conditionals | [Exercise](exercises/conditionals/exercise.md) | [Solution](exercises/conditionals/solution.md) | 
-| Switch | [Exercise](exercises/switch/exercise.md) | [Solution](exercises/switch/solution.md) | 
+| Switch | [Exercise](exercises/switch/exercise.md) | [Solution](exercises/switch/main.go) | 
 
 
 ### Strings Exercises
