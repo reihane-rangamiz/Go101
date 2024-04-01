@@ -19,7 +19,7 @@ Before getting hands-on with the exercises below, make sure you have a good gras
 | Data Types | [Exercise](exercises/data_types/exercise.md) | [Solution](exercises/data_types/solution.md) | |
 | User Input | [Exercise](exercises/user_input/exercise.md) | [Solution](exercises/user_input/main.go) | |
 | Packages | [Exercise](exercises/packages/exercise.md) | [Solution](exercises/packages/main.go) |
-| Logical Operators | [Exercise](exercises/logical_operators/exercise.md) | [Solution](exercises/logical_operators/solution.md) |
+| Logical Operators | [Exercise](exercises/logical_operators/exercise.md) | [Solution](exercises/logical_operators/main.go) |
 | Conditionals | [Exercise](exercises/conditionals/exercise.md) | [Solution](exercises/conditionals/solution.md) | 
 | Switch | [Exercise](exercises/switch/exercise.md) | [Solution](exercises/switch/solution.md) | 
 
