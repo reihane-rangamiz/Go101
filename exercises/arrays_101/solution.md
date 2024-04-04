@@ -62,6 +62,19 @@ func main(){
    3. The length of the array
 
 ```go
+package main
+
+import "fmt"
+
+func main() {
+
+    movies := [10]string{"DeadPool", "THOR", "spider-Man", "Bat-Man", "Iron-Man"}
+
+    fmt.Println("Array:", movies)
+    fmt.Println("Second item in the array:", movies[1])
+    fmt.Println("length of the array is: ", len(movies))
+
+}
 
 
 ```
