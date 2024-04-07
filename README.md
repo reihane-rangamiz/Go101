@@ -41,7 +41,7 @@ Before getting hands-on with the exercises below, make sure you have a good gras
 
 |Name|Exercise|Solution|Comments|
 |--------|--------|------|----|
-| Maps 101 | [Exercise](exercises/maps_101/exercise.md) | [Solution](exercises/maps_101/solution.md) | |
+| Maps 101 | [Exercise](exercises/maps_101/exercise.md) | [Solution](exercises/maps_101/main.go) | |
 
 ### Loops Exercises
 
